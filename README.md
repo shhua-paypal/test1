@@ -3,7 +3,7 @@
 # I just add somthing to make it different from master branch
 
 <html>
-<head><title>Hello github</title></head>
+<head>Hello github</head>
 
 <body>
 
